@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(255, 20, 145);
+}
+img{
+    width: 20%;
+}
+figure{
+    text-align:center; 
+}
+.container{width: 80%;
+margin: auto;}
