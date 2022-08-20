@@ -9,3 +9,19 @@ figure{
 }
 .container{width: 80%;
 margin: auto;}
+
+h1,h2{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.center {
+    align-items: center;
+    text-align: center;
+}
