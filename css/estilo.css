@@ -24,4 +24,6 @@ p{
 .center {
     align-items: center;
     text-align: center;
+    width: 50%;
+    float: left;
 }
