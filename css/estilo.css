@@ -1,5 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
+   
     background-color: rgb(255, 20, 145);
+}
+header{
+    background-color: rgb(238, 116, 163);
 }
 img{
     width: 20%;
@@ -26,4 +34,16 @@ p{
     text-align: center;
     width: 50%;
     float: left;
+}
+footer{
+    clear: both;
+    background-color: rgb(238, 116, 163);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+footer p{
+    text-align: center;
+}
+.menu{
+    text-align: center;
 }
