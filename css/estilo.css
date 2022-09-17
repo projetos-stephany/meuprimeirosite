@@ -92,3 +92,15 @@ footer p{
 .menu ul li{
     line-height: 1.5;
 }
+.ani{ 
+    width: 300px;
+    margin-top: 2%;
+    height: 300px;
+    background-color: black;
+    margin-bottom: 2%;
+    transition: width 2s;
+}
+
+.ani:hover{
+ width: 800px;   
+}
